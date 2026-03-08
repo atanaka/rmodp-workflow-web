@@ -1,6 +1,6 @@
 # rmodp-workflow-web
 
-**RM-ODP Integrated Workflow for Claude.ai — Web 版**
+**RM-ODP Integrated Workflow for Claude.ai — Web 版 (Experimental)**
 
 [English](#english) | [日本語](#japanese)
 
